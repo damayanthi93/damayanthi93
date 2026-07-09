@@ -189,18 +189,6 @@ I am currently seeking opportunities as a **Software Engineer**, **Python Develo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamayanthiVelamala&theme=github-dark&hide_border=true&bg_color=0F172A&color=2563EB&line=06B6D4&point=10B981&area=true&area_color=2563EB" width="100%" alt="Contribution Graph" />
 </p>
 
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Pull_Shark-0F172A?style=for-the-badge&logo=github&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Star_Struck-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Quick_Pull-0F172A?style=for-the-badge&logo=github&logoColor=10B981" />
-  <img src="https://img.shields.io/badge/YOLO-0F172A?style=for-the-badge&logo=github&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Pair_Extraordinaire-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Galaxy_Brain-0F172A?style=for-the-badge&logo=github&logoColor=10B981" />
-</div>
 
 ---
 
