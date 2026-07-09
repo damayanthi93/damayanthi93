@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Hi+There!+%F0%9F%91%8B+I'm+Damayanthi+Velamala;AI+%26+ML+Graduate+%7C+Python+Developer;Building+AI-Powered+Applications;Full+Stack+Developer+%26+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=250&section=header&text=Damayanthi%20Velamala&fontSize=70&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=AI%20&%20Machine%20Learning%20Graduate&descAlignY=60&descSize=25" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Python+Developer+%7C+AI+Enthusiast+%7C+Full+Stack+Developer;Building+AI-Powered+Applications;Machine+Learning+%26+Generative+AI;Open+to+Software+Engineering+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,83 +13,162 @@
 </p>
 
 <p align="center">
-  <a href="mailto:damayanthivelamala@email.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=2563EB" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/damayanthivelamala">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=2563EB" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=06B6D4" alt="LinkedIn" />
   </a>
   <a href="https://github.com/DamayanthiVelamala">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/u/damayanthivelamala">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=2563EB" alt="LeetCode" />
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=react&logoColor=2563EB" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE">
+    <img src="https://img.shields.io/badge/LeetCode-0F172A?style=for-the-badge&logo=leetcode&logoColor=06B6D4" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+    <img src="https://img.shields.io/badge/HackerRank-0F172A?style=for-the-badge&logo=hackerrank&logoColor=10B981" alt="HackerRank" />
   </a>
 </p>
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="Wave"> About Me
+### 👨‍💻 About Me
 
-> I am a **Computer Science graduate** specializing in **Artificial Intelligence and Machine Learning**. I enjoy building real-world AI applications, learning modern technologies, solving complex coding problems, and contributing to open-source projects. 
->
-> I am deeply passionate about **Python, Generative AI, LLMs, Full Stack Development, and Software Engineering**. Currently, I am actively seeking opportunities as a **Software Engineer, Python Developer, AI Engineer, or Full Stack Developer** to build impactful, AI-driven solutions.
+> 🎓 **AI & ML Graduate** | 🐍 **Python Developer** | 🤖 **Building AI-powered applications**
+> 
+> ✨ Interested in **Generative AI** & **LLMs** | 🌐 **Full Stack Development**
+> 
+> 🌱 **Open Source Learning** | 🧩 **Problem Solving** | 📈 **Continuous Learning**
+
+I am a Computer Science graduate specializing in Artificial Intelligence and Machine Learning with a passion for building intelligent software that solves real-world problems. I enjoy developing AI-powered applications using Python, Machine Learning, Large Language Models (LLMs), and modern Full Stack technologies. I continuously improve my skills by building projects, solving coding challenges, and exploring the latest advancements in Artificial Intelligence.
+
+I am currently seeking opportunities as a **Software Engineer**, **Python Developer**, **AI Engineer**, or **Full Stack Developer** where I can contribute to impactful products while growing as an engineer.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,flask,nodejs,express,sqlite,mongodb,git,github,vscode,postman&theme=dark" alt="Tech Stack" />
+**Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 </p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
+</p>
+
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express&theme=dark" />
+</p>
+
+**Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark" />
+</p>
+
+**Artificial Intelligence**
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=flat-square&logo=tensorflow&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=flat-square&logo=openai&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=flat-square&logo=openai&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/OpenAI_API-0F172A?style=flat-square&logo=openai&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Groq_API-0F172A?style=flat-square&logo=openai&logoColor=06B6D4" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+</p>
+
+---
 
 ### 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=googledocs&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-000000?style=for-the-badge&logo=openai&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-000000?style=for-the-badge&logo=database&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonaws&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logo=googledocs&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=openai&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Vector_DBs-0F172A?style=for-the-badge&logo=database&logoColor=2563EB" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 1. AI Resume to Portfolio Generator
-**Tech:** `Python` `Flask` `SQLite` `Tailwind CSS` `HTML/CSS/JS` `Groq API`
-> An AI-powered application that automatically converts resumes into beautiful, professional portfolio websites. Features include resume upload, AI content extraction, dynamic portfolio generation, live editing, downloading, and secure authentication.
+#### 1. 🤖 AI Resume to Portfolio Generator
+> An AI-powered web application that automatically converts resumes into responsive professional portfolio websites using AI.
 
-#### 2. AI Diet Recommendation Chatbot
-**Tech:** `Python` `Flask` `LLM API`
-> An intelligent chatbot that provides highly personalized diet and nutrition recommendations using Artificial Intelligence, tailored to individual user profiles and health goals.
+**Tech Stack:**
+`Python` `Flask` `SQLite` `Tailwind CSS` `HTML` `CSS` `JavaScript` `Groq API`
 
-#### 3. Language Learning Conversation Chatbot
-**Tech:** `Python` `React` `FastAPI` `LLM API`
-> An interactive AI platform designed to help users improve their spoken English. Features include real-time conversation practice, a dynamic vocabulary builder, progress tracking, and interactive quizzes.
+**Key Features:**
+✔ Resume Upload & AI Content Extraction  
+✔ Dynamic Portfolio Generation & Editing  
+✔ Secure Authentication & Portfolio Download  
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
+</p>
+
+---
+
+#### 2. 🥗 AI Diet Recommendation Chatbot
+> An intelligent chatbot that provides personalized diet recommendations based on user preferences and health goals using Artificial Intelligence.
+
+**Tech Stack:**
+`Python` `Flask` `LLM API`
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
+</p>
+
+---
+
+#### 3. 💬 Language Learning Conversation Chatbot
+> An AI-powered language learning assistant that improves spoken English through conversations, vocabulary building, quizzes, and progress tracking.
+
+**Tech Stack:**
+`Python` `React` `FastAPI` `LLM API`
+
+**Key Features:**
+✔ Conversation Practice & Vocabulary Builder  
+✔ Progress Tracking & Interactive Quizzes  
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
+</p>
 
 ---
 
 ### 💡 Core Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/AI-000000?style=flat-square&logo=openai&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=flat-square&logo=tensorflow&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Generative_AI-000000?style=flat-square&logo=generativeai&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=flat-square&logo=prompt&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=postman&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/DSA-000000?style=flat-square&logo=leetcode&logoColor=2563EB" />
-  <img src="https://img.shields.io/badge/Problem_Solving-000000?style=flat-square&logo=hackerrank&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Generative_AI-0F172A?style=for-the-badge&logo=openai&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0F172A?style=for-the-badge&logo=openai&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/React.js-0F172A?style=for-the-badge&logo=react&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=postman&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Problem_Solving-0F172A?style=for-the-badge&logo=leetcode&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Data_Structures-0F172A?style=for-the-badge&logo=hackerrank&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Algorithms-0F172A?style=for-the-badge&logo=hackerrank&logoColor=10B981" />
 </p>
 
 ---
@@ -93,42 +176,54 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamayanthiVelamala&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=FFFFFF&icon_color=2563EB" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamayanthiVelamala&theme=dark&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DamayanthiVelamala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamayanthiVelamala&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=10B981&currStreakLabel=06B6D4" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamayanthiVelamala&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=FFFFFF" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DamayanthiVelamala&theme=dark&no-frame=true&no-bg=true&column=7&margin-w=15" width="48%" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamayanthiVelamala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&text_color=F8FAFC" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DamayanthiVelamala&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" width="48%" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamayanthiVelamala&theme=custom&hide_border=true&bg_color=00000000&color=2563EB&line=2563EB&point=FFFFFF&area=true&area_color=2563EB" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamayanthiVelamala&theme=github-dark&hide_border=true&bg_color=0F172A&color=2563EB&line=06B6D4&point=10B981&area=true&area_color=2563EB" width="100%" alt="Contribution Graph" />
 </p>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Pull_Shark-0F172A?style=for-the-badge&logo=github&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Star_Struck-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Quick_Pull-0F172A?style=for-the-badge&logo=github&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/YOLO-0F172A?style=for-the-badge&logo=github&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Pair_Extraordinaire-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Galaxy_Brain-0F172A?style=for-the-badge&logo=github&logoColor=10B981" />
+</div>
 
 ---
 
 ### 🎯 Goals for 2026
 
-- [ ] Master **Agentic AI** and build autonomous, multi-agent AI workflows.
-- [ ] Contribute meaningfully to major **open-source AI/ML projects**.
-- [ ] Deploy **3+ production-grade** Full Stack AI applications to the cloud.
-- [ ] Achieve **AWS Cloud Practitioner** or Solutions Architect certification.
-- [ ] Mentor junior developers and share technical insights via blogs and community talks.
+- [ ] 🤖 Master **Agentic AI** and build autonomous AI workflows
+- [ ] 🚀 Deploy multiple **production-ready AI applications** to the cloud
+- [ ] 🌍 Contribute meaningfully to **Open Source** projects
+- [ ] ☁️ Earn **AWS Certification** (Cloud Practitioner / Solutions Architect)
+- [ ] ✍️ Write **technical blogs** and share knowledge with the community
+- [ ] 💼 Secure a **Software Engineer** or **AI Engineer** role
 
 ---
 
-### 💬 Daily Quote
+### 💬 Favorite Quote
 
-> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."* 
-> <br>— **Edsger W. Dijkstra**
+> *"The question of whether a computer can think is no more interesting than the question of whether a submarine can swim."*
+> 
+> <div align="right">— <strong>Edsger W. Dijkstra</strong></div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" width="100%" alt="Footer Wave" />
-</p>
-
-<p align="center">
-  <sub><strong>© 2026 Damayanthi Velamala</strong> | Crafted with 💙 and lots of ☕</sub>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:2563EB&height=120&section=footer&text=©%202026%20Damayanthi%20Velamala&fontSize=20&fontColor=F8FAFC&animation=fadeIn&fontAlignY=80" width="100%" />
+  <p><sub>Crafted with 💙, Python 🐍, AI 🤖, and lots of ☕</sub></p>
+</div>
