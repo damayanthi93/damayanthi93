@@ -106,46 +106,64 @@ I am currently seeking opportunities as a **Software Engineer**, **Python Develo
 #### 1. 🤖 AI Resume to Portfolio Generator
 > An AI-powered web application that automatically converts resumes into responsive professional portfolio websites using AI.
 
-**Tech Stack:**
-`Python` `Flask` `SQLite` `Tailwind CSS` `HTML` `CSS` `JavaScript` `Groq API`
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Groq_API-0F172A?style=flat-square&logo=openai&logoColor=06B6D4" />
+</div>
 
-**Key Features:**
+**✨ Key Features:**
 ✔ Resume Upload & AI Content Extraction  
-✔ Dynamic Portfolio Generation & Editing  
+✔ Dynamic Portfolio Generation & Live Editing  
 ✔ Secure Authentication & Portfolio Download  
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
+<p align="right">
+  <a href="#"><img src="https://img.shields.io/badge/View_Code-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
 </p>
 
 ---
 
-#### 2. 🥗 AI Diet Recommendation Chatbot
-> An intelligent chatbot that provides personalized diet recommendations based on user preferences and health goals using Artificial Intelligence.
-
-**Tech Stack:**
-`Python` `Flask` `LLM API`
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
-</p>
-
----
-
-#### 3. 💬 Language Learning Conversation Chatbot
+#### 2. 💬 Language Learning Conversation Chatbot
 > An AI-powered language learning assistant that improves spoken English through conversations, vocabulary building, quizzes, and progress tracking.
 
-**Tech Stack:**
-`Python` `React` `FastAPI` `LLM API`
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/LLM_API-0F172A?style=flat-square&logo=openai&logoColor=2563EB" />
+</div>
 
-**Key Features:**
-✔ Conversation Practice & Vocabulary Builder  
+**✨ Key Features:**
+✔ Real-time Conversation Practice  
+✔ Dynamic Vocabulary Builder  
 ✔ Progress Tracking & Interactive Quizzes  
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
+<p align="right">
+  <a href="#"><img src="https://img.shields.io/badge/View_Code-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
+</p>
+
+---
+
+#### 3. 🥗 AI Diet Recommendation Chatbot
+> An intelligent chatbot that provides personalized diet recommendations based on user preferences and health goals using Artificial Intelligence.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=2563EB" />
+  <img src="https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/LLM_API-0F172A?style=flat-square&logo=openai&logoColor=10B981" />
+</div>
+
+**✨ Key Features:**
+✔ Personalized Diet Plans  
+✔ Health Goal Tracking  
+✔ AI-Powered Nutritional Advice  
+
+<p align="right">
+  <a href="#"><img src="https://img.shields.io/badge/View_Code-0F172A?style=flat-square&logo=github&logoColor=F8FAFC" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=F8FAFC" /></a>
 </p>
 
@@ -175,15 +193,7 @@ I am currently seeking opportunities as a **Software Engineer**, **Python Develo
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=damayanthi93&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&icon_color=06B6D4&text_color=F8FAFC" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=damayanthi93&theme=tokyonight&hide_border=true&background=0F172A&ring=2563EB&fire=10B981&currStreakLabel=06B6D4" width="48%" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damayanthi93&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=2563EB&text_color=F8FAFC" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=damayanthi93&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" width="48%" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=damayanthi93&theme=github-dark&hide_border=true&bg_color=0F172A&color=2563EB&line=06B6D4&point=10B981&area=true&area_color=2563EB" width="100%" alt="Contribution Graph" />
