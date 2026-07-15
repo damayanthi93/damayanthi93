@@ -53,7 +53,7 @@ I am currently seeking opportunities as a **Software Engineer**, **Python Develo
 
 **Programming Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,sql,html,css&theme=dark" />
 </p>
 
 **Frontend**
